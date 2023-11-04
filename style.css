@@ -1,0 +1,71 @@
+body {
+    background-color: #83d823;
+    padding: 0px;
+}
+#uper {
+    background-color: #a0a0a0;
+    padding: 2px;
+}
+#Opcions {
+    float: left;
+    background-color: #2f2e2e;
+    padding: 5px;
+    width: 500px;
+    height: 500px;
+}
+#Games {
+    background-color: #808080;
+    padding: 10px;
+    float: left;
+    width: 1000px;
+    height: 500px;
+}
+#end{
+    background-color: #161616;
+    clear: both;
+}
+
+
+#extralogo {
+    font-size: 100px;
+    font-family: 'Yu Gothic';
+    color: #ededed;
+}
+
+#instal{
+    font-size: 50px;
+    color: #727272;
+}
+
+
+
+#info1 {
+   float: right;
+   
+}
+#info2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+
+#scrachpl {
+    font-size: 25px;
+}
+#scrachgm {
+    font-size: 25px;
+}
+#newgame {
+    font-size: 25px;
+}
+
+#editgame {
+    font-size: 25px;
+}
+
+#endtext {
+    color: #ededed;
+}
+#endlinck {
+    color: #ededed;
+}
